@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as a}from"./app.f6cace9f.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"plugins/locationSync.md","lastUpdated":1675221273000}'),n={name:"plugins/locationSync.md"};function o(c,s,r,i,p,l){return a(),e("div")}const m=t(n,[["render",o]]);export{_ as __pageData,m as default};
