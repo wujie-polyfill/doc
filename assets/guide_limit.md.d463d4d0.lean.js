@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./app.7c87279d.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{"sidebarDepth":2},"headers":[],"relativePath":"guide/limit.md","lastUpdated":1696316490000}'),r={name:"guide/limit.md"};function i(s,o,c,n,d,p){return a(),t("div")}const l=e(r,[["render",i]]);export{_ as __pageData,l as default};
