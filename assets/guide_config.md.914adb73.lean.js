@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app.4fee450b.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{"sidebarDepth":2},"headers":[],"relativePath":"guide/config.md","lastUpdated":1700125117000}'),o={name:"guide/config.md"};function r(c,n,s,i,d,p){return a(),t("div")}const m=e(o,[["render",r]]);export{f as __pageData,m as default};
